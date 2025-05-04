@@ -7,7 +7,6 @@
 
 ### About Me
 
-- 🚀 Fresh graduate from **SMK Negeri 1 Bongas** (2025)  
 - 💻 Focused on building responsive, clean, and dynamic web apps  
 - 🌐 Founder of **VTECH**, providing website solutions for UMKM and schools  
 - ⚡ Currently diving deeper into **Fullstack Development**, with interest in API integrations and UI/UX
