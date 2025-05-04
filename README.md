@@ -7,8 +7,7 @@
 
 ### About Me
 
-- 💻 Focused on building responsive, clean, and dynamic web apps  
-- 🌐 Founder of **VTECH**, providing website solutions for UMKM and schools  
+- 💻 Focused on building responsive, clean, and dynamic web apps   
 - ⚡ Currently diving deeper into **Fullstack Development**, with interest in API integrations and UI/UX
 
 ---
